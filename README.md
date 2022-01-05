@@ -5,7 +5,7 @@ The files in this repository were used to configure the network depicted below.
 # Network Diagram
 ![alt text](https://github.com/Suleadigun/ELK-Project1/blob/main/Diagrams/Sule%20-%20Cloud%20Diagram.png)
 
-These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _____ file may be used to install only certain pieces of it, such as Filebeat.
+These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the host file may be used to install only certain pieces of it, such as Filebeat.
 
 ## My Playbook(s)
 [Filebeat Playbook](https://github.com/Suleadigun/ELK-Project1/blob/main/Ansible/files/filebeat-config.yml)
